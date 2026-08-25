@@ -1,0 +1,3 @@
+design.v,verilog,xil_defaultlib,../../design.v,incdir="../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+testbench.v,verilog,xil_defaultlib,../../testbench.v,incdir="../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v
