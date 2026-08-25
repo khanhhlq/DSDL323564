@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/TT-Thiet-ke-tong-hop-HTS/SS1/decoder-2-to-4/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_2_to_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/TT-Thiet-ke-tong-hop-HTS/SS1/decoder-2-to-4/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_2_to_4_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/TT-Thiet-ke-tong-hop-HTS/SS1/decoder-2-to-4/decoder-2-to-4/decoder-2-to-4.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
