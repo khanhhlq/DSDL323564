@@ -1,5 +1,6 @@
 module mux_4_to_1(
-    input [3:0] in, [1:0] sel, 
+    input [3:0] in, 
+    input [1:0] sel, 
     input en, HL, 
     output data_out
 );
