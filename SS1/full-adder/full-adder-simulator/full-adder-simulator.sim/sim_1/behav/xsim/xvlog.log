@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/TT-Thiet-ke-tong-hop-HTS/SS1/full-adder/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-311] analyzing module half_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/TT-Thiet-ke-tong-hop-HTS/SS1/full-adder/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder_tb
