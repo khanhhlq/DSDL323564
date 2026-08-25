@@ -1,0 +1,4 @@
+Running: xsim.dir/ck_div_50MHZ_to_5MHZ_and_1MHZ_tb_behav/xsimk.exe -simmode gui -wdb ck_div_50MHZ_to_5MHZ_and_1MHZ_tb_behav.wdb -simrunnum 0 -socket 53829
+Design successfully loaded
+Design Loading Memory Usage: 19180 KB (Peak: 19180 KB)
+Design Loading CPU Usage: 124 ms

@@ -2,3 +2,6 @@ Running: xsim.dir/up_down_counter_8bit_tb_behav/xsimk.exe -simmode gui -wdb up_d
 Design successfully loaded
 Design Loading Memory Usage: 19180 KB (Peak: 19180 KB)
 Design Loading CPU Usage: 139 ms
+Simulation completed
+Simulation Memory Usage: 19980 KB (Peak: 19980 KB)
+Simulation CPU Usage: 187 ms

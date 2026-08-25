@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-5MHZ-and-1MHZ/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ck_div_50MHZ_to_5MHZ_and_1MHZ
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-5MHZ-and-1MHZ/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ck_div_50MHZ_to_5MHZ_and_1MHZ_tb
