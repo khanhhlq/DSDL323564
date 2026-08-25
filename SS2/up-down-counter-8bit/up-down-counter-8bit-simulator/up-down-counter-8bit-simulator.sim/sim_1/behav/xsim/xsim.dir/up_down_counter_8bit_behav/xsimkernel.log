@@ -1,0 +1,7 @@
+Running: xsim.dir/up_down_counter_8bit_behav/xsimk.exe -simmode gui -wdb up_down_counter_8bit_behav.wdb -simrunnum 0 -socket 63126
+Design successfully loaded
+Design Loading Memory Usage: 19164 KB (Peak: 19164 KB)
+Design Loading CPU Usage: 139 ms
+Simulation completed
+Simulation Memory Usage: 19996 KB (Peak: 19996 KB)
+Simulation CPU Usage: 218 ms
