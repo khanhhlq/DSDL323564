@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/DSDL323564/SS2/counter-8bit-speed-control/design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module DEM_8bit
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/Desktop/DSDL323564/SS2/counter-8bit-speed-control/testbench.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module DEM_8bit_tb
