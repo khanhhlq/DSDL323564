@@ -2,3 +2,6 @@ Running: xsim.dir/ck_div_50MHZ_to_5MHZ_tb_behav/xsimk.exe -simmode gui -wdb ck_d
 Design successfully loaded
 Design Loading Memory Usage: 19200 KB (Peak: 19200 KB)
 Design Loading CPU Usage: 124 ms
+Simulation completed
+Simulation Memory Usage: 19952 KB (Peak: 19952 KB)
+Simulation CPU Usage: 265 ms

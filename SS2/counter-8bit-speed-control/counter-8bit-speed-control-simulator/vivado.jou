@@ -45,3 +45,4 @@ run all
 save_wave_config {C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck_div_50MHZ_to_5MHZ_tb_behav.wcfg}
 export_ip_user_files -no_script -force
 export_simulation  -directory "C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck-div-50MHZ-to-1MHZ-simulator" -simulator xsim
+close_sim
