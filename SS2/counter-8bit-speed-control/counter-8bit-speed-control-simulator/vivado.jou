@@ -23,3 +23,25 @@
 #-----------------------------------------------------------
 start_gui
 open_project C:/Users/LENOVO/Desktop/DSDL323564/SS2/counter-8bit-speed-control/counter-8bit-speed-control-simulator/counter-8bit-speed-control-simulator.xpr
+update_compile_order -fileset sources_1
+close_project
+create_project ck-div-50MHZ-to-1MHZ-simulator C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck-div-50MHZ-to-1MHZ-simulator -part xc7a12ticsg325-1L
+add_files -norecurse C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/design.v
+update_compile_order -fileset sources_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+add_files -fileset sim_1 -norecurse C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/testbench.v
+update_compile_order -fileset sim_1
+launch_simulation
+source ck_div_50MHZ_to_5MHZ.tcl
+update_compile_order -fileset sim_1
+run all
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source ck_div_50MHZ_to_5MHZ_tb.tcl
+run all
+save_wave_config {C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck_div_50MHZ_to_5MHZ_tb_behav.wcfg}
+export_ip_user_files -no_script -force
+export_simulation  -directory "C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck-div-50MHZ-to-1MHZ-simulator" -simulator xsim
