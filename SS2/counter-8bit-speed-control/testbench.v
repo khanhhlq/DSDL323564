@@ -30,8 +30,6 @@ module DEM_8bit_tb;
         // Test 4: Đổi tốc độ sang SPEED = 1 (1MHz) và tiếp tục đếm lên (UD = 1)
         speed = 1; UD = 1;
         #6000;
-
-        // Kết thúc mô phỏng
         $finish;
     end
 
