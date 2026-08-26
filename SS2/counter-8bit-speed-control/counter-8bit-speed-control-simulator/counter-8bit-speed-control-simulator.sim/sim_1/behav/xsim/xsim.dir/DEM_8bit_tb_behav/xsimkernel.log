@@ -2,3 +2,6 @@ Running: xsim.dir/DEM_8bit_tb_behav/xsimk.exe -simmode gui -wdb DEM_8bit_tb_beha
 Design successfully loaded
 Design Loading Memory Usage: 19256 KB (Peak: 19256 KB)
 Design Loading CPU Usage: 124 ms
+Simulation completed
+Simulation Memory Usage: 20072 KB (Peak: 20072 KB)
+Simulation CPU Usage: 171 ms
