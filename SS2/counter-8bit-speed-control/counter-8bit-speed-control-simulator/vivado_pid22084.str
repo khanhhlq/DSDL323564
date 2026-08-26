@@ -1322,3 +1322,13 @@ dismissDialog("Export Simulation Files"); // z (dialog6)
 // Tcl Message: export_simulation  -directory "C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck-div-50MHZ-to-1MHZ-simulator" -simulator xsim 
 // Tcl Message: INFO: [Vivado 12-25919] Exporting simulation script for 'xsim' simulator INFO: [SIM-utils-72] Using boost library from 'C:/AMDDesignTools/2026.1/Vivado/tps/boost_1_72_0' INFO: [exportsim-Tcl-8] Generating simulation products for BD/IPs (if any)... INFO: [exportsim-Tcl-35] Exporting simulation files for "XSIM" (AMD Vivado Simulator)... INFO: [exportsim-Tcl-29] Pre-compiled simulation library path: 'C:/AMDDesignTools/2026.1/Vivado/data/xsim' INFO: [exportsim-Tcl-29] Script generated: 'C:/Users/LENOVO/Desktop/DSDL323564/SS2/ck-div-50MHZ-to-1MHZ/ck-div-50MHZ-to-1MHZ-simulator/xsim/ck_div_50MHZ_to_5MHZ_tb.sh' 
 dismissDialog("Export Simulation"); // bk (Export Simulation Progress)
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:12:11 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:12:51 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:13:31 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:14:11 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:14:51 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 105 MB. Current time: 8/26/26, 8:15:31 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 105 MB. Current time: 8/26/26, 8:16:11 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 105 MB. Current time: 8/26/26, 8:16:52 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:17:32 AM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 1,281 MB. GUI used memory: 104 MB. Current time: 8/26/26, 8:18:12 AM GMT+07:00
