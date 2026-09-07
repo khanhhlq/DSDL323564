@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS3/led_sangdich_tsp_pst_speed/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_sangdich_tsp_pst_speed
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS3/led_sangdich_tsp_pst_speed/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_sangdich_tsp_pst_speed_tb
