@@ -4,10 +4,10 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="72" Path="D:/DSDL323564/SS3/led_sangdich_tsp_laplai/led_sangdich_tsp_laplai.xpr">
+<Project Product="Vivado" Version="7" Minor="72" Path="D:/DSDL323564/SS3/led_sangdich_tsp_laplai/led_sangdich_tsp_laplai_simulator/led_sangdich_tsp_laplai_simulator.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="4d78d8b7c86e4665b0dec1b5c87121b2"/>
+    <Option Name="Id" Val="ce78251d67714b8b8128e7ec70250151"/>
     <Option Name="Part" Val="xc7a12ticsg325-1L"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
