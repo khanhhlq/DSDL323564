@@ -1,0 +1,4 @@
+Running: xsim.dir/led_sangdich_tsp_pst_speed_tb_behav/xsimk.exe -simmode gui -wdb led_sangdich_tsp_pst_speed_tb_behav.wdb -simrunnum 0 -socket 63477
+Design successfully loaded
+Design Loading Memory Usage: 19032 KB (Peak: 19032 KB)
+Design Loading CPU Usage: 93 ms
