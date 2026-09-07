@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS3/led_sangdich_tnv_speed/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_sangdich_tnv_speed
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS3/led_sangdich_tnv_speed/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_sangdich_tnv_speed_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS3/led_sangdich_tnv_speed/led_sangdich_tnv_speed_simulator/led_sangdich_tnv_speed_simulator.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
