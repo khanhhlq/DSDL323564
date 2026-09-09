@@ -1,0 +1,12 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/Thiet_ke_LED_bo_dem_simulator/Thiet_ke_LED_bo_dem_simulator.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,,,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/design.v,1788939636,verilog,,D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/divide_clock.v,,thiet_ke_led_bo_dem,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/divide_clock.v,1788939438,verilog,,D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode1.v,,chia_clock,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode1.v,1788938785,verilog,,D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode2.v,,mode1,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode2.v,1788938872,verilog,,D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode3.v,,mode2,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode3.v,1788939162,verilog,,D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode4.v,,mode3,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/mode4.v,1788939281,verilog,,D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/testbench.v,,mode4,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/SS4/Thiet_ke_LED_bo_dem/testbench.v,1788939807,verilog,,,,thiet_ke_led_bo_dem_tb,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
