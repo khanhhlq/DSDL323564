@@ -1,0 +1,4 @@
+Running: xsim.dir/thiet_ke_led_bo_dem_tb_behav/xsimk.exe -simmode gui -wdb thiet_ke_led_bo_dem_tb_behav.wdb -simrunnum 0 -socket 58481
+Design successfully loaded
+Design Loading Memory Usage: 19184 KB (Peak: 19184 KB)
+Design Loading CPU Usage: 62 ms
