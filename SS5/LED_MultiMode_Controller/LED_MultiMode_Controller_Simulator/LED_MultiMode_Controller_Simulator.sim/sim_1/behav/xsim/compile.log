@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LED_MultiMode_Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/divide_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divide_clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/led_blink.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_blink
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/mode1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/mode2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/mode3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/mode4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LED_MultiMode_Controller_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/SS5/LED_MultiMode_Controller/LED_MultiMode_Controller_Simulator/LED_MultiMode_Controller_Simulator.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
