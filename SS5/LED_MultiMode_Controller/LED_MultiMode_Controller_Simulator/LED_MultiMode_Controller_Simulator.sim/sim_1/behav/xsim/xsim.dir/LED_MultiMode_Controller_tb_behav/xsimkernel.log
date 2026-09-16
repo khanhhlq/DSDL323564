@@ -1,0 +1,4 @@
+Running: xsim.dir/LED_MultiMode_Controller_tb_behav/xsimk.exe -simmode gui -wdb LED_MultiMode_Controller_tb_behav.wdb -simrunnum 0 -socket 55327
+Design successfully loaded
+Design Loading Memory Usage: 18872 KB (Peak: 18872 KB)
+Design Loading CPU Usage: 93 ms
