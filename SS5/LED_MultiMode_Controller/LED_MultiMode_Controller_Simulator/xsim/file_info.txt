@@ -1,0 +1,9 @@
+design.v,verilog,xil_defaultlib,../../design.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+divide_clock.v,verilog,xil_defaultlib,../../divide_clock.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+led_blink.v,verilog,xil_defaultlib,../../led_blink.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+mode1.v,verilog,xil_defaultlib,../../mode1.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+mode2.v,verilog,xil_defaultlib,../../mode2.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+mode3.v,verilog,xil_defaultlib,../../mode3.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+mode4.v,verilog,xil_defaultlib,../../mode4.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+testbench.v,verilog,xil_defaultlib,../../testbench.v,incdir="C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

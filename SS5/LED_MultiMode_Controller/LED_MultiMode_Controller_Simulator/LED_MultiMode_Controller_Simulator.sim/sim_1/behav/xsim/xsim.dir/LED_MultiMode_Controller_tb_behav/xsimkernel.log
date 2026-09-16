@@ -2,3 +2,6 @@ Running: xsim.dir/LED_MultiMode_Controller_tb_behav/xsimk.exe -simmode gui -wdb 
 Design successfully loaded
 Design Loading Memory Usage: 18872 KB (Peak: 18872 KB)
 Design Loading CPU Usage: 93 ms
+Simulation completed
+Simulation Memory Usage: 20236 KB (Peak: 20236 KB)
+Simulation CPU Usage: 140 ms
