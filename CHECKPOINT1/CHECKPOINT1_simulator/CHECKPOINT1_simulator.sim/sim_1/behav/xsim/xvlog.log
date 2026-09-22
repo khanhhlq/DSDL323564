@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/divide_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divide_clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/led_blink.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_blink
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/mode1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/mode2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/mode3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/mode4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/CHECKPOINT1/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_controller_tb

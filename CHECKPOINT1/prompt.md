@@ -11,7 +11,7 @@ Thiết kế một module Verilog điều khiển **10 LED (`led_out[9:0]`)** v�
 * `speed`: Một switch dùng để chọn tốc độ hoạt động **1 MHz hoặc 5 MHz**.
 * `led_out[9:0]`: Ngõ ra điều khiển **10 LED**.
 
-## 2. Chế độ TEST
+## 2. Chế độ TEST (KHI sw_test_manual = 1)
 
 Khi `test_manual` chọn **TEST**:
 
@@ -23,7 +23,7 @@ Ví dụ:
 
 `0000000000 → 1111111111 → 0000000000 → ...`
 
-## 3. Chế độ MANUAL
+## 3. Chế độ MANUAL (KHI sw_test_manual = 0)
 
 Khi `test_manual` chọn **MANUAL**, sử dụng `mode[1:0]` để chọn một trong 4 chế độ:
 
