@@ -1,6 +1,3 @@
-// sw_speed = 0 : 1MHz
-// sw_speed = 1: 5Mhz
-
 module divide_clock(
     input clk, reset, sw_speed,
     output reg clk_en
