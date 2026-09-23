@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/divide_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divide_clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/led_blink.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_blink
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/mode1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/mode2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/mode3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/mode4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/LE_QUOC_KHANH/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_controller_tb
