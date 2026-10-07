@@ -2,3 +2,6 @@ Running: xsim.dir/led_controller_tb_behav/xsimk.exe -simmode gui -wdb led_contro
 Design successfully loaded
 Design Loading Memory Usage: 18844 KB (Peak: 18844 KB)
 Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 19632 KB (Peak: 19632 KB)
+Simulation CPU Usage: 124 ms

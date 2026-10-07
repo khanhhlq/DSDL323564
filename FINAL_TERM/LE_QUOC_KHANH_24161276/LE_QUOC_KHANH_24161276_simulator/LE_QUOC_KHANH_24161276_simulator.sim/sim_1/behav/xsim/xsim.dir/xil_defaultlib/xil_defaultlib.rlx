@@ -1,0 +1,13 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/LE_QUOC_KHANH_24161276_simulator/LE_QUOC_KHANH_24161276_simulator.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,,,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/design.v,1791357614,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/divide_clock.v,,final_term,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/divide_clock.v,1791301655,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode1.v,,divide_clock,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode1.v,1791341300,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode2.v,,mode_1,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode2.v,1791353196,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode3.v,,mode_2,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode3.v,1791353221,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode4.v,,mode_3,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode4.v,1791352950,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/test.v,,mode_4,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/test.v,1791342595,verilog,,D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/testbench.v,,test,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/testbench.v,1791354021,verilog,,,,tb_final_term,,,C:/AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,

@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module final_term
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/divide_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divide_clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/mode4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mode_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DSDL323564/FINAL_TERM/LE_QUOC_KHANH_24161276/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_final_term
